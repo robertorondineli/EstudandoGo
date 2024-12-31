@@ -1,3 +1,3 @@
 package main
 
-const a = "Olá, mundo!"
+const A = "Hello, Wolrd!"
