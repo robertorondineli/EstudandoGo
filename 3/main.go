@@ -10,3 +10,7 @@ var (
 func main() {
 	println(a, b)
 }
+
+func x() {
+
+}
